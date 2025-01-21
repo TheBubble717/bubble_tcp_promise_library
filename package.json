@@ -1,6 +1,6 @@
 {
   "name": "bubble_tcp_promise_library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TCP Pormise Based Client and Server",
   "main": "tcp_connections.js",
   "type": "module",
