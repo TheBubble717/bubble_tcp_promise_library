@@ -1,0 +1,24 @@
+{
+  "name": "bubble_tcp_promise_library",
+  "version": "1.0.0",
+  "description": "TCP Pormise Based Client and Server",
+  "main": "tcp_connections.js",
+  "type": "module",
+
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBubble717/bubble_tcp_promise_library.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBubble717/bubble_tcp_promise_library/issues"
+  },
+  "homepage": "https://github.com/TheBubble717/bubble_tcp_promise_library#readme"
+}
